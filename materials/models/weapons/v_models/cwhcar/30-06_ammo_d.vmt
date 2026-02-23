@@ -1,0 +1,19 @@
+Vertexlitgeneric
+{
+
+	$basetexture                "models/weapons/v_models/cwhcar/30-06_ammo_d"   
+	$bumpmap                    "models/weapons/v_models/cwhcar/30-06_ammo_n"
+
+	$phongexponenttexture       "models/weapons/v_models/cwhcar/30-06_ammo_s"
+
+	"$normalmapalphaenvmapmask" 	"1"
+	
+	"$envmaptint"		"[0.05 0.05 0.05]"
+	
+	"$phong" 		"1"
+	"$phongboost"		"1"
+	"$phongtint"		"[1 1 0.2]"
+	"$phongfresnelranges"	"[1 4 7]"
+	"$phongalbedotint" 	"1"
+	"$halflambert" 		"1"
+}

@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\cwcattachments\aerosonic"
+	"$bumpmap" 	"models\weapons\cwcattachments\aerosonic_normal"
+	"$normalmapalphaenvmapmask" "1"	
+
+	$phong "1"
+	"$phongexponent" "80"
+	"$phongboost"	"1"
+	$phongexponenttexture	"models\weapons\cwcattachments\aerosonic_s"
+	$phongfresnelranges		"[0.5 0.5 1]"
+
+	
+
+}

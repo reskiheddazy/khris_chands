@@ -1,0 +1,17 @@
+ "VertexLitGeneric"
+
+{
+
+	"$basetexture" "models\weapons\v_models\M4A4\rif_m4a1_issue_d"
+	"$bumpmap" "models\weapons\v_models\M4A4\rif_m4a1_n"
+
+	"$normalmapalphaenvmapmask" 	"1"
+	"$normalmapalphaphongmask"    	"1"
+
+
+	"$phong" "1"
+	"$phongBoost" "5"
+	"$phongExponent" "20"
+	"$phongTint" "[ 1 1.2 .9 ]"
+	"$phongFresnelRanges" "[.2 .3 1]"	
+}

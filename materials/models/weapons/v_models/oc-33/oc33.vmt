@@ -1,0 +1,15 @@
+//noodum/4cuck
+
+VertexLitGeneric
+{
+	$basetexture						"models/weapons/v_models/oc-33/pernach_d"
+	$bumpmap							"models/weapons/v_models/oc-33/pernach_n"
+	$phongexponenttexture				"models/weapons/v_models/oc-33/pernach_e"
+	
+	$phong                      		1
+	$phongboost                 		.5
+	$phongfresnelranges         		"[1 4 6]"
+	"$phongalbedotint"					"1"
+	"$phongalbedoboost" 				"12"
+	$normalmapalphaphongmask    		0
+}

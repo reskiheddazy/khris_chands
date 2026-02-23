@@ -1,0 +1,24 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models\weapons\v_models\khrisSVeti\mag_diffuse"
+	"$bumpmap" "models\weapons\v_models\khrisSVeti\mag_normal"
+	"$PhongExponentTexture" "models\weapons\v_models\khrisSVeti\mag_specular"
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$envmaptint .02 .02 .02
+$model 1
+
+"$phong" 		"1"
+"$phongboost" "1.5"
+"$phongfresnelranges" "[2 5 8]"
+
+"$envmapfresnel"   "1"
+"$envmapFresnelMinMaxExp" "[1 4 .4]"
+"$rimlight" "1"
+"$rimlightexponent" "66"	
+"$rimlightboost" "0.1"
+$rimmask 1
+     "$nocull"       "1"
+
+
+}

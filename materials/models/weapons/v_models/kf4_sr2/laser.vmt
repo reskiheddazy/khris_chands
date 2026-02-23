@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\kf4_sr2\laser"
+	"$model"	"1"
+	"$translucent"	"1"
+"$no_draw" "1"
+}
