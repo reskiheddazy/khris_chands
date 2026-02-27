@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\twink_bright_mp5\Chamber"
+	"$bumpmap" 	"models\weapons\v_models\twink_bright_mp5\Chamber_Normal"
+
+ 	"$normalmapalphaenvmapmask" "0"
+	"$nocull" "1"
+}
