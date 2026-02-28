@@ -91,7 +91,7 @@ $sequence "reload" {
 }
 
 $sequence "reload_empty" {
-    "anims\reload_empty.dmx"
+    "anims\reload_empty_reshed.dmx"
     activity "ACT_VM_RELOAD" 1
     fps 30
     snap
