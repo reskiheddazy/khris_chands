@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\cwsks\skstex"
+	"$bumpmap" "models\weapons\cwsks\sksnormal"
+	"$halflambert" 				"1"
+	"$phong" 					"1"
+	"$phongboost" 				"0.75"
+	"$phongexponent" 			"50"
+	//"$phongexponenttexture" 	"models\weapons\cwsks\sksgloss"
+	"$phongfresnelranges" 		"[1 2 4]"
+}
