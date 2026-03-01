@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\ak47\Receiver"
+	"$bumpmap" "models\weapons\v_models\ak47\Receiver_Normal"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[0.03 0.03 0.03]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" "0.4"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask" "1"
+                "$model" "1"
+	"$phong" "1"
+	"$phongexponent" 	"30"
+	"$phongboost" "1"
+	"$surfaceprop" "Metal"
+	"$halflambert" "1"
+	"$phongfresnelranges"   "[1 6 12]"
+	"$phongalbedotint" "1"
+                "$PhongAlbedoTint"  "1"
+
+
+                "$rimlight" "1"
+                "$rimlightexponent" "50"	
+                "$rimlightboost" "0.28"
+}
